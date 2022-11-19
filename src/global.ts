@@ -1,4 +1,4 @@
-import { createGlobalStyle } from 'styled-components';
+import { createGlobalStyle } from "styled-components";
 
 export default createGlobalStyle`
     * {
@@ -15,7 +15,11 @@ export default createGlobalStyle`
         background-color: #81259D;
     }
 
-    input, button, textarea, h1, h2, h3, h4, h5, h6 {
+    input, textarea, h1, h2, h3, h4, h5, h6 {
         font-family: 'Nunito', sans-serif;
     }
-`
+
+    &:disabled {
+        background-color: lightgray;
+    }
+`;

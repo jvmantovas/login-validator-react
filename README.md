@@ -1,12 +1,12 @@
 <h1 align="center">Login validator</h1>
 
 <p align="center">
-O projeto consiste em um validador de login com uso do [react-hook-form](https://react-hook-form.com/) com o hook useForm e o [yup](https://www.npmjs.com/package/yup) para elaborar os critérios.
+O projeto consiste em um validador de login com uso do <a href="https://react-hook-form.com/">react-hook-form</a> com o hook useForm e o <a href="https://www.npmjs.com/package/yup">yup</a> para elaborar os critérios.
 </p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>
 </p>
 
 <br>
@@ -15,7 +15,7 @@ O projeto consiste em um validador de login com uso do [react-hook-form](https:/
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- TypeScript](https://www.typescriptlang.org/)
+- [TypeScript](https://www.typescriptlang.org/)
 - [React](https://reactjs.org/)
 - [react-hook-form](https://react-hook-form.com/)
 - [yup](https://www.npmjs.com/package/yup)
